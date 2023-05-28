@@ -98,6 +98,97 @@
 - [ ] StreamIO
 - [ ] Scrambled
 
+
+## Categorized 𝐖𝐈𝐍𝐃𝐎𝐖𝐒 𝐌𝐀𝐂𝐇𝐈𝐍𝐄𝐒
+## Easy
+- [ ] legacy
+- [ ] Devel
+- [ ] Optimum
+- [ ] granny
+- [ ] Arctic
+- [ ] grandpa
+- [ ] Blue
+- [ ] bounty
+- [ ] jerry
+- [ ] Active
+- [ ] Netmon
+- [ ] Bastion
+- [ ] Heist
+- [ ] Forest 
+- [ ] Nest
+- [ ] Sauna
+- [ ] Remote
+- [ ] ServMon
+- [ ] Buff
+- [ ] Toolbox
+- [ ] Love
+- [ ] Return
+- [ ] Driver
+- [ ] Timelapse
+- [ ] Support
+
+## Medium
+
+- [ ] Outdated
+- [ ] Scrambled
+- [ ] StreamIO
+- [ ] Intelligence
+- [ ] Atom
+- [ ] Worker
+- [ ] Fuse
+- [ ] Cascade
+- [ ] Monteverde
+- [ ] Resolute
+- [ ] Bastard 
+- [ ] Jeeves
+- [ ] Chatterbox
+- [ ] Bart
+- [ ] Silo
+- [ ] SecNotes
+- [ ] Giddy
+- [ ] Querier
+- [ ] Arkham
+- [ ] Json
+- [ ] Sniper
+
+## Hard
+
+- [ ] Object
+- [ ] Mantis
+- [ ] Acute
+- [ ] Tally
+- [ ] Search
+- [ ] Dropzone
+- [ ] Hancliffe
+- [ ] Reel
+- [ ] Proper
+- [ ] Conceal
+- [ ] Breadcrumbs
+- [ ] Helpline
+- [ ] Sharp
+- [ ] RE
+- [ ] Cereal
+- [ ] Control
+- [ ] Reel2
+- [ ] Blackfield
+
+## Insane
+- [ ] Hathor
+- [ ] Minion
+- [ ] Perspective
+- [ ] Rabbit
+- [ ] Anubis
+- [ ] Fighter
+- [ ] Pivotapi
+- [ ] Etheral
+- [ ] APT
+- [ ] Bighead
+- [ ] Multimaster
+- [ ] Sizzle
+- [ ] Bankrobber
+- [ ] Hackback
+
+
 ## 𝐌𝐨𝐫𝐞 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐢𝐧𝐠 𝐭𝐡𝐚𝐧 𝐎𝐒𝐂𝐏, 𝐛𝐮𝐭 𝐠𝐨𝐨𝐝 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞
 
 - [ ] Jeeves [Windows]
